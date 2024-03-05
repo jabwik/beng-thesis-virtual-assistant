@@ -1,0 +1,50 @@
+text,intent
+how are you?,greeting
+hello,greeting
+eluwina,greeting
+good morning,greeting
+good afternoon,greeting
+see you later,leaving
+talk to you later,leaving
+goodbye,leaving
+nice chatting to you bye,leaving
+time to go,leaving
+till the next time,leaving
+weather,weather
+whats the temperature,weather
+should i take some umbrella,weather
+is sunny,weather
+forecast,weather
+how can you help me,options
+what can you do,options
+what are your features,options
+ip address,findip
+what is my ip address,findip
+discord,discord
+open discord,discord
+chat with friends,discord
+gimp,gimp
+open gimp,gimp
+want to draw,gimp
+want to write,xed
+open notepad,xed
+want to write a story,xed
+open text editor,xed
+play music,music
+play this,music
+lets listen,music
+lets watch,movie
+play movie,movie
+watch video,movie
+some film,movie
+want fortune cookie,horoscope
+want horoscope,horoscope
+fortune,horoscope
+want future tips,horoscope
+open signal,signal
+open messenger,signal
+write with partner,signal
+joke,joke
+something funny,joke
+need terminal,terminal
+yes i drank water,agreed

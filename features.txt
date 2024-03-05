@@ -1,0 +1,22 @@
+tell jokes
+open fortune cookies
+chat
+check weather
+check news
+search google
+search wikipedia
+play music
+play video
+open discord
+open notepad
+open gimp
+open signal
+open terminal
+check ip address
+tell jokes
+open fortune cookies
+chat
+check weather
+check news
+search google
+search wikipedia
